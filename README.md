@@ -29,8 +29,8 @@ In this challenge, you have been tasked with crafting an engaging layout, select
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Tornike-Peradze/Clipboard-landing-page)
+- Live Site URL: (https://tornike-peradze.github.io/Clipboard-landing-page/)
 
 ## My process
 
